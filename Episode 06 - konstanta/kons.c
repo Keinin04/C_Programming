@@ -7,6 +7,7 @@
 #define SATU 1 
 #define pi 3.1415
 
+
 int main()
 {
 	/*KAMUS*/
@@ -15,6 +16,8 @@ int main()
 	const float param = 2.5;
 	const char cc = 65; 
 	const char cA = 'A';
+
+	
 
 	/*ALGORITMA*/
 
